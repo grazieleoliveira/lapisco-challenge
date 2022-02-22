@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lapisco-challenge/static/css/main.235b0f0c.css",
+    "main.css": "/lapisco-challenge/static/css/main.1ab59f03.css",
     "main.js": "/lapisco-challenge/static/js/main.51f83f3a.js",
     "static/js/787.eb74b758.chunk.js": "/lapisco-challenge/static/js/787.eb74b758.chunk.js",
     "index.html": "/lapisco-challenge/index.html",
-    "main.235b0f0c.css.map": "/lapisco-challenge/static/css/main.235b0f0c.css.map",
+    "main.1ab59f03.css.map": "/lapisco-challenge/static/css/main.1ab59f03.css.map",
     "main.51f83f3a.js.map": "/lapisco-challenge/static/js/main.51f83f3a.js.map",
     "787.eb74b758.chunk.js.map": "/lapisco-challenge/static/js/787.eb74b758.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.235b0f0c.css",
+    "static/css/main.1ab59f03.css",
     "static/js/main.51f83f3a.js"
   ]
 }
