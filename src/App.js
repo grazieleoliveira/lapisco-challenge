@@ -26,8 +26,8 @@ function App() {
     const searchWord = event.target.value;
     setSearch(searchWord);
     const newFilter = data?.filter((value) => {
-      const fullName = value.name.first + "" + value.name.last;
-      return fullName.toLowerCase().includes(searchWord.toLowerCase());
+      const fullName = value.name.first + value.name.last;
+      return fullName.toLowerCase().includes(searchWord.replace(/ /g,'').toLowerCase());
     });
     if (searchWord) {
       setFilteredData(newFilter);
